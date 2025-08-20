@@ -4,7 +4,7 @@ Codepath Prework Project
 
 Submitted by: **Sahana Rajashekara**
 
-**Prework** is an app that changes the background color of the app.
+**Prework** is an app that changes the background color.
 
 Time spent: **1** hours spent in total
 
