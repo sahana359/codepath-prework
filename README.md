@@ -22,6 +22,33 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+App: **Spotify**
+
+ Features:
+
+ - Collaborative playlist - Create collaborative playlist together with friends
+ - Jam - Listen to songs together
+ - Blend - Combine friends' taste into playlist
+
+App: **Netflix**
+
+Features:
+
+- Splash screen animation with the "ta-dum" sound
+- Movies/TV shows neatly displayed in categories
+- Skip Intro feature
+- Preview/Auto Play when hovering
+
+App: **Slack**
+
+Features:
+
+- Different org categorization (DMs confined to orgs)
+- When you open a channel, button to skip to top / beginning / first unread message
+
+**App Idea**
+
+I would like to build an app called TechConnect, a platform where people can post about different tech events such as workshops, hackathons, or career fairs with a detailed description of each event. Users would be able to filter events based on location, time period, and category so they can quickly find opportunities that are most relevant to them. The app would also include features like RSVPs, reminders, and the ability to share events with friends or colleagues. By centralizing tech events in one place, TechConnect would make it easier for students and professionals to stay informed, network, and actively engage in the tech community.
 
 ## Notes
 
