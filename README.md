@@ -6,7 +6,7 @@ Submitted by: **Sahana Rajashekara**
 
 **Prework** is an app that changes the background color.
 
-Time spent: **1** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
